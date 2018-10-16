@@ -1,0 +1,10 @@
+body {
+	background-color: red;
+}
+
+div {
+	text-align: left;
+	background-color: white;
+	border: 2mm ridge rgb(0, 0, 0);
+	border-radius: 5px;
+}
